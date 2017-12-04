@@ -67,3 +67,4 @@ Note: texts inside brackets are comments
 
 # Acknowledgement
 This project is a requirement to complete the 2nd assignment of IF2130 Computer Network.
+Makefile by Daniel Pintara (nieltg).
